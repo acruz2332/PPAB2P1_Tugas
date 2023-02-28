@@ -4,4 +4,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="judul">Komatik UGM</string>
     <string name="isikonten">Komatik UGM atau Komunitas Mahasiswa Teknologi Informasi dan Komunikasi Universitas Gadjah Mada merupakan salah satu komunitas di level universitas yang berada dibawah naungan DITMAWA UGM. Komunitas ini memiliki tujuan utama untuk mempersiapkan lomba nasional yaitu Gemastik. Komunitas ini memiliki 9 divisi yang berbeda, yaitu(lihat selengkapnya):</string>
+
+    <string name="isikonten2">Komatik UGM atau Komunitas Mahasiswa Teknologi Informasi dan Komunikasi Universitas Gadjah Mada merupakan salah satu komunitas di level universitas yang berada dibawah naungan DITMAWA UGM. Komunitas ini memiliki tujuan utama untuk mempersiapkan lomba nasional yaitu Gemastik. Komunitas ini memiliki 9 divisi yang berbeda, yaitu: \n1. Humas\n2. KSK\n3. Medinfo\n4. Competitive Programming\n5. ASGama\n6. Data Mining &amp; AI\n7. Software Research Development\n8. UXGama\n9. IoT Gama\n10. GaM-Lab</string>
+
 </resources>

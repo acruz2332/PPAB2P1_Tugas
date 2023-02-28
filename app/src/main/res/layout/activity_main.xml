@@ -19,8 +19,8 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"/>
 
-    <fragment
-        android:id="@+id/fragment"
+    <FrameLayout
+        android:id="@+id/frame_content"
         android:name="com.ppab.ppab2p1_tugas.FragmentTugas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
